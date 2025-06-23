@@ -1,0 +1,41 @@
+name: vital_fit
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - image/vital_fit.jpeg
+    - image/growth_supplements.jpeg
+    - image/telavip.jpeg
+    - image/mith.jpeg
+    - image/dreduardo.jpeg
+    - image/robert.jpeg
+    - image/antonio.png
+    - image/drsavio.jpeg
+    - image/severiano.jpeg
+    - image/fredlouro.jpeg
+    - image/nutrition_background.jpeg
+    - image/drbruno.jpeg
+    - image/1.png
+    - image/ironpulse.png
+    - image/alphaforce.png
+    - image/elevate.png
+    - image/max.png
+    - image/integralmedica.png
+    - image/darklab.png
+    - image/ronnie.png
