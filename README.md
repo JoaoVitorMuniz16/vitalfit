@@ -1,6 +1,6 @@
-# vital_fit
+# Vital Fit
 
-A new Flutter project.
+O Novo projeto Flutter
 
 ## Getting Started
 
